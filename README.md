@@ -3,6 +3,7 @@
 This program has been designed to simplify subsetting 'omics' data results by gene. This is often used when filtering results from RNA-seq, ChIP-seq, and even variant information (for example from whole exome or whole genome sequencing). This program works by taking a list (or multiple lists) of gene symbols and retaining only the rows pertaining to the genes of interest from an entire results file.
 
 Example Usage:
+
 ```
 python filter_by_gene.py -c Symbol -i Cancer_Cell_Line_Results.csv -p
 Cancer_Cell_Lines -l Metastasis_genes.txt Apoptosis_genes.txt -n Metastasis
