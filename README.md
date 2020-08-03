@@ -5,9 +5,7 @@ This program has been designed to simplify subsetting 'omics' data results by ge
 Example Usage:
 
 ```
-python filter_by_gene.py -c Symbol -i Cancer_Cell_Line_Results.csv -p
-Cancer_Cell_Lines -l Metastasis_genes.txt Apoptosis_genes.txt -n Metastasis
-Apoptosis
+python filter_by_gene.py -c Symbol -i Cancer_Cell_Line_Results.csv -p Cancer_Cell_Lines -l Metastasis_genes.txt Apoptosis_genes.txt -n Metastasis Apoptosis
 ```
 
 Optional Arguments:
