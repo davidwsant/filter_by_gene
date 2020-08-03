@@ -1,0 +1,17 @@
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage (GO:1902229)
+TMEM161A
+CDKN2D
+DDIAS
+FBXO18
+CLU
+CCAR2
+SFRP2
+CXCL12
+NACC2
+BCL2L1
+SNAI2
+ACKR3
+SNAI1
+RPS3
+TRIM32
+TPT1
